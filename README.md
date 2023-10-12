@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on (https://dev.to/caesardroidhttps://dev.to/caesardroid)
+- 📝 I regularly write articles on https://dev.to/caesardroid
 
 - 💬 Ask me about **Python, SQL and git.**
 
